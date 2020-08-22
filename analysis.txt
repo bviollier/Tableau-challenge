@@ -1,0 +1,18 @@
+https://github.com/bviollier/Tableau-challenge\
+
+https://public.tableau.com/profile/benoit.viollier#!/vizhome/Citi-Analytics/Story\
+
+
+Findings:
+
+Start and End Statistics / User Diversification
+
+It seems that peak hours of the day to start and stop using the Citi Bikes is around 8am and 6pm. This could be due to people going to and coming from work. Grove St is the most popular spot to both Start and End your journey. After Grove, they do not juxtapose but are very similar. The large majority of Citi Bike users are Subscribers and Male.
+
+Monthly Statistics / User Summary
+
+Summer seems to have the peak usage of these bikes. This could be due to warmer temperatures. 24-hour passes are definitely more popular than 3-day passes. However, the trend is similar. The number of members is continuously increasing over time (this is solely 2018). Something I found interesting was that the average trip duration of a subscriber was less than a customers\'92. Yet the sum duration is larger. I believe it is due to tourism. Locals use Citi Bikes year round and therefore the duration adds up whereas customers do not use them as frequently as it is only during particular times. However, when customers decide to use them, they borrow them for longer periods of time (to visit/explore).
+
+Map
+
+The map simply shows the Start and End statistics in a different manner. As you can see, there is a high density of people starting their journey in Jersey City. This is also true for the end of their journey. A observation I have made is that there is no start point in New York City but a dozen end points scattered around NYC.
